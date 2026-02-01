@@ -1,2 +1,2 @@
 # Demo
-This is just a Demo to understand the Git.
+This is a Demo to understand the Git.
